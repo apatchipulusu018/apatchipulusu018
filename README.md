@@ -1,5 +1,5 @@
 
-# I'm Anisha welcome to my abode! 
+# Welcome to my humble abode! ✧
 
 I'm a senior Data Science student at the University of Nebraska–Lincoln's Jeffrey S. Raikes School of Computer Science and Management.
 
