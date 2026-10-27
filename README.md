@@ -36,9 +36,6 @@ A music recommendation system that explores the relationship between language, e
 Computer Vision · Deep Learning · Generative AI · AI Agents
 
 
-### Connect With Me :)
-[LinkedIn](https://linkedin.com/in/anisha-patchipulusu)
-
 <!--
 **apatchipulusu018/apatchipulusu018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
